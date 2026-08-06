@@ -2,37 +2,173 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "During the process of genomic DNA isolation, disrupted cells are incubated with a digestion buffer containing __________ to release genomic DNA from the DNA-protein complex.",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "NaCl and alcohol",
+        "b": "Amylase",
+        "c": "RNase and DNase",
+        "d": "Protease and SDS"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Purification of genomic DNA with __________ mixture has two phases, aqueous phase and organic phase. In this step, phenol denatures the remaining proteins and keeps the protein in the organic phase and genomic DNA present in aqueous phase.",
+      "answers": {
+        "a": "Phenol : Chloroform",
+        "b": "Alcohol : Chloroform",
+        "c": "Water : Organic acid",
+        "d": "Glycine : Hydrochloric acid"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "To precipitate the genomic DNA from the aqueous phase, __________ is commonly used.",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Water",
+        "b": "Acetic acid",
+        "c": "Absolute alcohol",
+        "d": "Tris buffer"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
       },
       "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "In Southern blotting, the DNA fragments are separated by size using __________.",
+      "answers": {
+        "a": "High-performance liquid chromatography",
+        "b": "Capillary electrophoresis",
+        "c": "Agarose gel electrophoresis",
+        "d": "SDS-PAGE"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The phenol is going to denature the proteins, and they will also become part of the __________ phase.",
+      "answers": {
+        "a": "Aqueous",
+        "b": "Gaseous",
+        "c": "Solid",
+        "d": "Organic"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "A smear on gel is actually an indication that you have __________ the genomic DNA, which suggests that you have either broken down or degraded the genomic DNA.",
+      "answers": {
+        "a": "Amplified",
+        "b": "Fragmented",
+        "c": "Isolated",
+        "d": "Purified"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "During Southern blotting, depurination of DNA using dilute HCl primarily helps in:",
+      "answers": {
+        "a": "Increasing probe specificity",
+        "b": "Preventing DNA degradation",
+        "c": "Facilitating transfer of high-molecular-weight DNA",
+        "d": "Enhancing radioactive signal"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "If genomic DNA is incompletely digested before Southern blotting, the autoradiograph will show",
+      "answers": {
+        "a": "Smear with high-molecular-weight bands",
+        "b": "A single sharp band",
+        "c": "No hybridization signal",
+        "d": "Uniform background"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "During vacuum blotting, the driving force for DNA transfer is:",
+      "answers": {
+        "a": "Osmotic pressure",
+        "b": "Gravity",
+        "c": "Electrical field",
+        "d": "Negative pressure"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Pre-hybridization step is essential mainly to:",
+      "answers": {
+        "a": "Denature the probe",
+        "b": "Saturate non-specific binding sites",
+        "c": "Increase probe length",
+        "d": "Remove excess DNA"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
       "difficulty": "beginner"
     }
   ]
