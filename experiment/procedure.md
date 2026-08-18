@@ -1,5 +1,3 @@
-### Procedure
-
 ### Step 1: Genomic DNA isolation
 
 The schematic for genomic DNA isolation is shown in Figure 2.
@@ -28,14 +26,14 @@ Genomic DNA can be digested with a frequent DNA cutting enzyme such as EcoR-I, B
 
 ### Table 1: Reaction mixture to set up the restriction digestion of genomic DNA
 
-| Reagents | Amount required |
-| -------- | --------------- |
-| Vector<br>Insert<br>Vector : Insert = 1:3 | 1 µg<br>3 µg |
-| T4-DNA Ligase | 0.5-10 units per reaction |
-| Ligase Buffer (10x) | 1x |
-| BSA (100x) | 1x |
-| Sterile Water | To make up the volume |
-| **Total Volume** | **20 µl** |
+| Reagents                                  | Amount required           |
+| ----------------------------------------- | ------------------------- |
+| Vector<br>Insert<br>Vector : Insert = 1:3 | 1 µg<br>3 µg              |
+| T4-DNA Ligase                             | 0.5-10 units per reaction |
+| Ligase Buffer (10x)                       | 1x                        |
+| BSA (100x)                                | 1x                        |
+| Sterile Water                             | To make up the volume     |
+| **Total Volume**                          | **20 µl**                 |
 
 Reactions are incubated 16-20 hrs at 16 °C.
 

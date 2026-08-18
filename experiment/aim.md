@@ -1,5 +1,3 @@
-### Aim
-
 - Isolation of genomic DNA from mammalian cells.
 
 - Separation of genomic DNA into agarose gel electrophoresis.
