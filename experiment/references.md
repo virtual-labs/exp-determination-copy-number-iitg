@@ -1,8 +1,5 @@
 ### References
 
-1. H-P Schmauder, M Schweizer and L M Schweizer (eds.), _Methods in Biotechnology_, Taylor & Francis Publishers, 2002.
-2. K. Wilson and J. Walker (eds.), _Practical Biochemistry: Principles and Techniques_, Cambridge University Press, New York, 1995.
-3. Douglas A. Skoog and James J. Leary, _Principles of Instrumental Analysis_, 4th Edition, Saunders College Publishing, 1992.
-4. C. R. Kothari, _Research Methodology: Methods and Techniques_, 3rd Edition, New Age International, 2014.
-5. R. Kumar, _Research Methodology: A Step-by-Step Guide for Beginners_, Sage Publications, London, 2011.
-6. C. G. Thomas, _Research Methodology and Scientific Writing_, Ane Books, Delhi, 2015.
+1. Brown T. Southern blotting. Curr Protoc Immunol. 2001 May; Chapter 10:Unit 10.6A. doi: 10.1002/0471142735.im1006as06. PMID: 18432697.
+2. Southern E. Southern blotting. Nat Protoc. 2006;1(2):518-25. doi: 10.1038/nprot.2006.73. PMID: 17406277.
+3. Glenn G, Andreou LV. Analysis of DNA by Southern blotting. Methods Enzymol. 2013;529:47-63. doi: 10.1016/B978-0-12-418687-3.00005-7. PMID: 24011036.
