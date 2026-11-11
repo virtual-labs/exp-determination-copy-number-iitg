@@ -1,6 +1,6 @@
 In Southern blotting, the genomic DNA is digested with the EcoRI or BamHI and the DNA fragments are resolved on the agarose gel. The gel is incubated in an alkaline solution to denature the double-stranded DNA to a single-stranded form. DNA is transferred to the nitrocellulose membrane by capillary action, either by applying suction or by placing wet paper towels. The membrane is incubated with a non-specific DNA, such as sonicated calf thymus genomic DNA, to block the binding sites on the membrane. A single stranded radioactive probe is added to the membrane and allowed to bind. The membrane is washed, and the blot is developed by autoradiography. The DNA fragment complementary to the probe sequence binds the radioactive probe and give positive signal.
 
-It is a six-step technique for resolving genomic DNA fragments and detecting a specific gene to determine copy number of a particular gene in the genome. The details of each step is given in the procedure, but a schematic outline of these steps is given in Figure 1. It is as follows:
+It is a seven-step technique for resolving genomic DNA fragments and detecting a specific gene to determine copy number of a particular gene in the genome. The details of each step is given in the procedure, but a schematic outline of these steps is given in Figure 1. It is as follows:
 
 ![Figure 1](images/image.png)
 
@@ -15,3 +15,9 @@ It is a six-step technique for resolving genomic DNA fragments and detecting a s
 5. Nitrocellulose membrane was blocked with non-specific DNA to avoid binding of the probe to the nitrocellulose surface. A radioactive probe was prepared, and the membrane was incubated with it in the hybridisation chamber.
 6. The membrane was washed with the washing buffer to remove excess probe.
 7. Nitrocellulose membrane was incubated with photographic film for 48 hours at -80 °C. Exposure can be optimized based on the radioactive signal from the bound probe.
+
+### Determination of copy number using Southern blotting
+
+- A single hybridizing band may indicate one integration locus, but does not necessarily indicate one copy.
+- Multiple hybridizing bands may indicate multiple integration sites or different restriction fragments containing the target sequence.
+- Band intensity can be compared with appropriate copy-number standards to estimate gene copy number.

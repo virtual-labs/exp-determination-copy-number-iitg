@@ -75,19 +75,49 @@ The purpose of each reagent used in horizontal gel electrophoresis are as follow
 <b>Figure 4: Casting of Agarose Gel for Electrophoresis</b>
 </p>
 
+### Step 4: Transfer of DNA to the membrane
+
+#### Capillary transfer
+
+1. Soak the gel in 0.25 N HCl for 10 minutes with gentle shaking at room temperature to depurinate larger DNA fragments. This step can be omitted for smaller fragments.
+2. Wash the gel with distilled water and submerge it in alkaline solution for 30 minutes with gentle shaking to denature the DNA.
+3. Wash with distilled water and submerge it in neutralization solution for 30 minutes with gentle shaking.
+4. Incubate the gel in 10× SSC for 30 minutes with gentle shaking.
+5. Cut the membrane to the gel size, mark one corner, wash with distilled water and soak in transfer buffer.
+6. Cut two sheets of 3 mm Whatman filter paper slightly larger than the gel and wet them with transfer buffer.
+7. Add 500–800 mL of 10× SSC to the transfer tray. Place a wet wick on a glass support with both ends dipping into the buffer; roll out any bubbles.
+8. Place the gel on the wick, followed by the membrane and the wet filter papers, removing air bubbles at each stage. Cover the setup with plastic wrap.
+9. Add a stack of paper towels, a glass plate and a 0.5–1 kg weight. Allow transfer for 4–16 hours; replace wet towels as needed and do not let the setup dry out.
+10. Remove the membrane, rinse it with 2× SSC, check the transfer under UV light, mark the lanes and immobilize the DNA using a UV cross-linker.
+
+![Figure 5: Capillary transfer](images/capillary-transfer.png)
+
+**Figure 5:** Capillary transfer of DNA from gel to membrane.
+
+#### Vacuum transfer
+
+1. Prepare the gel and membrane as described above. Cut a silicone mask with an opening smaller than the gel.
+2. Place wet 3 mm Whatman filter paper on the metal grid, followed by the membrane and mask. Position the gel on the mask and secure the cover.
+3. Apply approximately 75 mm Hg vacuum. Sequentially pass 5–10 mL depurination solution, 20 mL denaturation solution, neutralization solution and 10× SSC through the gel; allow 30–40 minutes for the SSC transfer.
+4. Remove excess buffer, switch off the vacuum, check the transfer under UV light and store the wrapped membrane at room temperature.
+
+![Figure 6: Vacuum transfer](images/vacuum-transfer.jpeg)
+
+**Figure 6:** Vacuum transfer of DNA from gel to membrane.
+
 ### Step 5: Preparation of radiolabeled probe
 
-**Random primer method:** In this method, a random primer is used to anneal to the template and then a PCR reaction is performed in the presence of radiolabeled nucleotide (Figure 5). After PCR, newly synthesized DNA strand is labeled with radioactive nucleotide. It has following steps:
+**Random primer method:** In this method, a random primer is used to anneal to the template and then a PCR reaction is performed in the presence of radiolabeled nucleotide (Figure 7). After PCR, newly synthesized DNA strand is labeled with radioactive nucleotide. It has following steps:
 
 1. The source double stranded DNA is denatured to generate the single stranded DNA template.
 2. A random primer is added and allowed it to anneal to the template strand. It will anneal to the random position throughout the sequence at multiple places.
 3. Primer will anneal to the template strand and now Klenow will start the synthesis of new DNA strand.
 4. Newly synthesized DNA will give short stretches of multiple labeled DNA probes.
 
-![Figure 5](images/procedure-image-3.png)
+![Figure 7](images/procedure-image-3.png)
 
 <p align="center" >
-<b>Figure 5: Preparation of radioactive probe by random primer method.</b>
+<b>Figure 7: Preparation of radioactive probe by random primer method.</b>
 </p>
 
 ### Step 6: Hybridization and development
@@ -98,10 +128,10 @@ The purpose of each reagent used in horizontal gel electrophoresis are as follow
 4. Rinse the membrane thoroughly with 10 ml of washing solution 2xSSC containing 0.1% SDS at room temperature.
 5. Expose the membrane to an x-ray film with an intensifying screen.
 
-**Result:** In the Southern blotting, the restriction enzyme cuts genomic DNA with a gene-specific probe, indicating a single band in the sample (Figure 6). A single band within a Southern blot indicates the presence of a single copy of the gene in the genome. More study is required to verify the results from the Southern blotting.
+**Result:** In the Southern blotting, the restriction enzyme cuts genomic DNA with a gene-specific probe, indicating a single band in the sample (Figure 8). A single band alone does not establish the number of gene copies; further analysis is required.
 
-![Figure 6](images/procedure-image-4.png)
+![Figure 8](images/procedure-image-4.png)
 
 <p align="center" >
-<b>Figure 6: Developed Southern blot.</b> The radioactive probe hybridizes with target gene to the genomic fragments and give intense band.
+<b>Figure 8: Developed Southern blot.</b> The radioactive probe hybridizes with target gene to the genomic fragments and give intense band.
 </p>
